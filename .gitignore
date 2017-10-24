@@ -1,4 +1,4 @@
 /vendor/
-/use/vendor/
+/example/vendor/
 .env
 .git

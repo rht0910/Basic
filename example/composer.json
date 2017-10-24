@@ -1,0 +1,12 @@
+{
+    "repositories": [
+      {
+	"type": "vcs",
+	"url": "https://github.com/rht0910/Basic",
+	"\\url": "https://github.com/rht0910/Basic.git"
+      }
+    ],
+    "require": {
+	"rht0910/basic": "1.0"
+    }
+}
